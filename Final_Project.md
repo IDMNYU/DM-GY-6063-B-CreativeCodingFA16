@@ -1,4 +1,4 @@
-### Assignments for DMGY-6063-B Creative Coding
+### Final Project for DMGY-6063-B Creative Coding
 
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email: Katherine.Bennett@nyu.edu** 

@@ -1,4 +1,4 @@
-### Syllabus for GY6063-B Creative Coding
+# Syllabus for GY6063-B Creative Coding
 
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email:Katherine.Bennett@nyu.edu** 
@@ -164,6 +164,31 @@ Do the follow these steps for each assignment:
 	5. Upload your folder. This file should contain all of the supporting files and documents.
 	6. Under the "Issues" tab, create a new issue. Note what bugs you are having, or where help is needed. Copy and paste the specific code in the comment area. Label the issue accordingly.
 
+##[Show and Tell](ShowAndTell.md)
+
+You will be assigned a [Show and Tell presentation date here](ShowAndTell.md). Please research the assigned artist/designers/firms/pieces/collectives in advance. Each presentation will be about 5-7 minutes long. Be able to address the following, along with *3-4 visual examples of each individual or team's work*: 
+
+• What is original/unique about how this artist uses technology? 
+
+• What kind of code did the artist use?  (JavaScript? Flash? Procesing? openFrameworks? VVVV?) How are they using the code? What is the code achieving?
+
+• Why is it necessary that the artist use code?  (ie: particularly if it’s non-interactive, could it have been achieved with traditional or linear media?)
+
+• Your presentation must be prepared and professional. DO NOT READ OFF YOUR SLIDES. In fact, don't use text at all. Show the work. Discuss the work.
+
+
+### Tips for your presentation
+
+• [THOUGHTS ON PUBLIC SPEAKING BY ZACH HOLMAN](http://speaking.io/) Click the links!!!
+
+• Create a 5-7 minutes presentation (pdf, powerpoint, keynote, quicktime, etc.)
+
+• Decide whether or not you want to mirror your presentation or not (if you're using presentation tools - ie, notes)
+Get familiar with your display preferences!!
+
+• If you have sound during your presentation, set your external sound preferences in system preferences to Crestron.
+
+• PRACTICE PRACTICE PRACTICE
 
 ## Grading
 
@@ -339,7 +364,7 @@ Faculty can provide course accommodations/modifications only after receipt of an
 
 ## Other Support Services for students
 
-## [Calendar](GY6063-B_Calendar.md)
+## [Calendar](Calendar.md)
 
 ## [Project 1](Project_1.md)
 

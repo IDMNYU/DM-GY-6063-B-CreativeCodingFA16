@@ -5,23 +5,23 @@
 
 ## Week 1  Sept 12
 
-	### Topics Covered:
+### Topics Covered:
 		• Introductions: People + Course
 		• Overview of course
 		• Intro to Processing
 
-	### Homework Assigned:
+### Homework Assigned:
 
 
 
 ## Week 2  Sept 19  Last Day to Drop
-	*Exercise 1 DUE*
+*Exercise 1 DUE*
 
-	### Topics Covered:
+### Topics Covered:
 		• GitHub + Turning in Assignements
 		• More Programming Basics: control statements, logical operators
 
-	### Homework Assigned:
+### Homework Assigned:
 
 
 

@@ -32,11 +32,11 @@ Develop collaboration skills to actively and effectively work in a team or group
 
 Students in this course will:
 
-• Understand the basics of creative coding in Java & Javascript (Processing/p5.js).
-• Apply their understanding of digital media to software.
-• Learn best practices for designing software within an event-driven, object-oriented, real time framework.
-• Experiment with different techniques for user input and output, including sensors and non-traditional screens.
-• Propose and develop a complete software experience as a final project.
+• Understand the basics of creative coding in Java & Javascript (Processing/p5.js) <br>
+• Apply their understanding of digital media to software. <br>
+• Learn best practices for designing software within an event-driven, object-oriented, real time framework. <br>
+• Experiment with different techniques for user input and output, including sensors and non-traditional screens. <br>
+• Propose and develop a complete software experience as a final project. <br>
 
 ## Prerequisites
 
@@ -146,7 +146,7 @@ GitHub is a web hosting service that supports Git version control. It is more im
 
 • Projects are not always group projects.
 
-• **Using code found elsewhere** It's super easy to find code online. As tempting as this is, I am going to ask that you write your own code for the first 2/3 of the semester. This will help you grasp and retain the fundamentals. It does help to write the code from the book out, line by line. Code that  is not written by you can not be submitted as a homework assignment, project or pair programming challenge as your own work. 
+• **Using code found elsewhere:** It's super easy to find code online. As tempting as this is, I am going to ask that you write your own code for the first 2/3 of the semester. This will help you grasp and retain the fundamentals. It does help to write the code from the book out, line by line. Code that  is not written by you can not be submitted as a homework assignment, project or pair programming challenge as your own work. 
 
 If you use code from elsewhere (which you will at times), I expect you to site the work and author, as well as to comment each line. In these cases, I am looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. Also, not more 40% of your code may be supplied from elsewhere.
 
@@ -342,5 +342,5 @@ Faculty can provide course accommodations/modifications only after receipt of an
 
 ## [Final Project](Final_Project.md)
 
-## [Resources](GY6063-B_Resources.md)
+## [Resources](Resources.md)
 

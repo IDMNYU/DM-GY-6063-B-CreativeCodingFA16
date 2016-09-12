@@ -36,13 +36,15 @@
 		• GitHub + Turning in Assignements
 		• More Programming Basics: control statements, logical operators, expressions, data types
 		• Loops
+		• Randomization
 		• Interactivity
 		
 
 ### Homework Assigned:
 		• Read Learning Processing - Ch. 3, 5-6
 		• Exercise 2
-		• 
+			* Take your design from Exercise 1 and add randomization (scale, size, position, color, etc)
+			* Intergate variables, control statements, operators
 
 <br>
 <br>
@@ -62,11 +64,21 @@
 		• Read [Procesing Transition Tutorial] (https://github.com/processing/p5.js/wiki/Processing-transition)
 		• Learning Processing - Ch. 7
 		• Exercise 3
+		* Take your design from Exercise 1 and add motion 
+			* Intergate variables, control statements, operators, interactivity
+			* Integrate custom functions that pass parameters
+			* Experiment with:
+				a. Making your object come back in reverse when it’s at the edge of your screen
+				b. Making your object come back from the opposite side of the screen (pac man effect)
+				c. Varying the speed of different objects within the same composition
+				d. Randomizing the speed of objects anytime you run your program
+				e. Gravity
 		
 <br>
 <br>
 ---
 ## Week 4  Oct 3
+**Exercise 3 DUE**
 
 ### Topics Covered:
 		• Matrix Transformations
@@ -75,7 +87,7 @@
 
 ### Homework Assigned:
 		• Read Learning Processing - Ch. 14, 9, 13
-		• Work on Project 1, push your project to your Github as a new repo
+		• [Work on Project 1](Project_1.md), push your project to your Github as a new repo
 		
 
 <br>
@@ -90,7 +102,7 @@
 
 ### Homework Assigned:
 		• Read Learning Processing - Ch. 8, 22
-		• Work on Project 1, push your progress to GitHub
+		• [Work on Project 1](Project_1.md), push your progress to GitHub
 
 
 <br>
@@ -102,11 +114,14 @@
 ### Topics Covered:
 		• OOP
 		• Inheritance + Polymorphism
-		• 
+		
 
 ### Homework Assigned:
 		• [Optimization in P5.js](https://github.com/processing/p5.js/wiki/Optimizing-p5.js-Code-for-Performance)
-		• Exercise 6
+		• Exercise 4
+			* Intergrate OOP to either Project 1, or a previous exercise
+			* The Classes must be structured to be unique upon instantiation and methods
+			* Bonus: intergration of Inheritance + Polymorphism
 		• Read Learning Processing - Ch 10 - 11
 
 <br>
@@ -114,6 +129,7 @@
 ---
 ## Week 7  Oct 24
 ** Mid-Term Self Assessment Due **
+**Exercise 4 Due**
 
 ### Topics Covered:
 		• Text
@@ -122,7 +138,8 @@
 
 ### Homework Assigned:
 		• Read: Learning Processing - Ch. 17, 15
-		• Exercise 7
+		• [Exercise 5](Exercise_5.md)
+
 		
 
 <br>
@@ -137,13 +154,16 @@
 
 ### Homework Assigned:
 		• Read Learning Processing - Ch. 18
-		• Exercise 8
-		• Prep for Roundtable regarding the Final Project
+		• [Exercise 5](Exercise_5.md)
+		• Prep for [Roundtable](RoundTable.md) regarding the [Final Project](Final_Project.md)
+
+
 
 <br>
 <br>
 ---
 ## Week 9  Nov 7
+**Exercise 5 Due**
 
 ### Topics Covered:
 		• String Manipulations
@@ -153,7 +173,8 @@
 ### Homework Assigned:
 		• Read Learning Processing - Ch. 19
 		• Read [Programmer Creativity Boost](http://lifedev.net/2008/07/programmer-creativity-boost/)
-		• Finalize preparations for Roundtable
+		• Finalize preparations for [Roundtable](RoundTable.md) for [Final Project](Final_Project.md)
+		• [Exercise 6](Exercise_6.md)
 
 <br>
 <br>
@@ -161,19 +182,21 @@
 ## Week 10  Nov 14
 
 ### Topics Covered:
-		• Round Table for Final Project
+		• Round Table Presenations for [Final Project](Final_Project.md)
 		• TBD
 		
 		
 
 ### Homework Assigned:
-		• Work on Final Project - Pseudo Code + initial steps
+		• [Exercise 6](Exercise_6.md)
+		• Work on [Final Project](Final_Project.md) - Pseudo Code + initial steps
 		
 
 <br>
 <br>
 ---
 ## Week 11  Nov 21
+**Exercise 6 DUE**
 
 ### Topics Covered:
 		• TBD
@@ -181,9 +204,8 @@
 		
 
 ### Homework Assigned:
-		• Work on Final Project - next steps
-		• 
-		• 
+		• Work on [Final Project](Final_Project.md) - next steps
+	
 
 <br>
 <br>
@@ -199,7 +221,7 @@
 		
 
 ### Homework Assigned:
-		• Work on Final Project - bugs + issues
+		• Work on [Final Project](Final_Project.md) - bugs + issues
 	
 
 <br>
@@ -214,7 +236,7 @@
 		
 
 ### Homework Assigned:
-		• Work on Final Project - integration of advanced concepts
+		• Work on [Final Project](Final_Project.md) - integration of advanced concepts
 		
 
 <br>
@@ -227,7 +249,7 @@
 		
 
 ### Homework Assigned:
-		• Work on Final Project - integration of advanced concepts
+		• Work on [Final Project](Final_Project.md) - integration of advanced concepts
 		
 
 <br>

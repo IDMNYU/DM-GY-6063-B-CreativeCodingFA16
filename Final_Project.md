@@ -1,8 +1,8 @@
-### Assignments for DM1133-C Creative Coding
+### Assignments for DMGY-6063-B Creative Coding
 
 * **Katherine Bennett, Visiting Assistant Professor**
-* **Email:Katherine.Bennett@nyu.edu** 
-* **Office Hours: Tues + Thur 4:20-6pm, otherwise by appointment** 
+* **Email: Katherine.Bennett@nyu.edu** 
+* **Office Hours: Tues + Thur 4:20-6:00pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
 
 ## Final Project: Choice 

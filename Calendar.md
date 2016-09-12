@@ -13,9 +13,11 @@
 ### Homework Assigned:
 
 
+<br>
+<br>
 
 ## Week 2  Sept 19  Last Day to Drop
-*Exercise 1 DUE*
+**Exercise 1 DUE**
 
 ### Topics Covered:
 		• GitHub + Turning in Assignements
@@ -24,7 +26,8 @@
 ### Homework Assigned:
 
 
-
+<br>
+<br>
 ## Week 3  Sept 26
 
 ## Week 4  Oct 3

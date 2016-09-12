@@ -4,4 +4,6 @@ Take a data set of some sort (text, API, JSON, XML) as an input. Your code shoul
 
 The output should be evident in some way, whether this is visually through text, or some other way of visualizing the information.
 
+This counts as 2 exercises.
+
 Due Nov 1

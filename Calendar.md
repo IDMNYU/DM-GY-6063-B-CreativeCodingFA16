@@ -22,7 +22,7 @@
 				* Use at least 7 different colors
 			- Replicate this EXACT design in Processing (shape, color, placement, size, scale, etc)
 		• Get a Github Account + Email me your handle
-		• Join the [Slack Channel] (https://gradcreativecodingb.slack.com) for this class and all sub-channels
+		• Join the <a href = "https://gradcreativecodingb.slack.com">Slack</a> Channel for this class and all sub-channels
 		• [Install Github] (https://github.com/), [P5.js (complete Library + Editor)](http://p5js.org/download/) on your laptop
 
 <br>
@@ -30,7 +30,7 @@
 ---
 
 ## Week 2  Sept 19   *Last Day to Drop*
-**Exercise 1 DUE**
+### **Exercise 1 DUE**
 
 ### Topics Covered:
 		• GitHub + Turning in Assignements
@@ -51,7 +51,7 @@
 ---
 
 ## Week 3  Sept 26
-**Exercise 2 DUE**
+### **Exercise 2 DUE**
 
 ### Topics Covered:
 		• Motion, Random
@@ -78,7 +78,7 @@
 <br>
 ---
 ## Week 4  Oct 3
-**Exercise 3 DUE**
+### **Exercise 3 DUE**
 
 ### Topics Covered:
 		• Matrix Transformations
@@ -109,7 +109,7 @@
 <br>
 ---
 ## Week 6  Oct 17
-**Project 1 Due**
+### **Project 1 Due**
 
 ### Topics Covered:
 		• OOP
@@ -129,7 +129,7 @@
 ---
 ## Week 7  Oct 24
 ** Mid-Term Self Assessment Due **
-**Exercise 4 Due**
+### **Exercise 4 Due**
 
 ### Topics Covered:
 		• Text
@@ -163,7 +163,7 @@
 <br>
 ---
 ## Week 9  Nov 7
-**Exercise 5 Due**
+### **Exercise 5 Due**
 
 ### Topics Covered:
 		• String Manipulations
@@ -196,7 +196,7 @@
 <br>
 ---
 ## Week 11  Nov 21
-**Exercise 6 DUE**
+### **Exercise 6 DUE**
 
 ### Topics Covered:
 		• TBD

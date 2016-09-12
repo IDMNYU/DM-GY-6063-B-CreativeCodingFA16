@@ -122,7 +122,7 @@ This book is available for purchase in the NYU bookstore, and will be physically
 • HIGHLY RECOMMENDED: [Generative Design by Bohnacker, GroB, Laub & Lazzeroni](http://www.generative-gestaltung.de/about) ISBN-13: 978-1616890773 GD
 This book is available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. You can check the status of the book [here](http://library.nyu.edu/)
 
- A Github account for yourself- https://github.com/ - email me your handle
+• A Github account for yourself- https://github.com/ - email me your handle
 
 • A notebook/sketchbook and a pen. At all times.
 
@@ -248,7 +248,7 @@ Work that is turned in after class but still on the due date get's 1/3 letter gr
 
 Assignments that are not submitted will receive a "0". Please realize that a "0" mark is a fantastic way to tank your grade.
 
-You have 2 "get out of jail" pass for 2 exercises. Those exercises will be omitted from your overall "Exercises" Grade. If you complete all the exercies and do not use your get-out-of-jail pass, the extra exercise will be considered extra credit for your "Exercise" Grade.
+You have 1 "get out of jail" pass for 1 exercise. Those exercises will be omitted from your overall "Exercises" Grade. If you complete all the exercies and do not use your get-out-of-jail pass, the extra exercise will be considered extra credit for your "Exercise" Grade.
 
 ### The numerical breakdown for letter grades is as follows:
 

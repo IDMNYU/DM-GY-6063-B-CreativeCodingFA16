@@ -10,4 +10,6 @@ It must be done in P5.js. You must use images and you must use text.
 
 I expect to see 2 pushes before the turning in the final. Submit pull requests throughout.
 
+This counts as 2 exercises.
+
 Due Nov 7th

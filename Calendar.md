@@ -22,7 +22,7 @@
 				* Use at least 7 different colors
 			- Replicate this EXACT design in Processing (shape, color, placement, size, scale, etc)
 		• Get a Github Account + Email me your handle
-		• Join the <a href = "https://gradcreativecodingb.slack.com">Slack</a> Channel for this class and all sub-channels
+		• Join the [Slack Channel](https://gradcreativecodingb.slack.com) for this class and all sub-channels
 		• [Install Github] (https://github.com/), [P5.js (complete Library + Editor)](http://p5js.org/download/) on your laptop
 
 <br>

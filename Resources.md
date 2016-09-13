@@ -53,6 +53,17 @@ This book is available for purchase in the NYU bookstore, and will be on reserve
 • [Finished is Better Than Perfect](https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished is better than perfect)
 
 ### Fabulous References and Supporting Resources
+
+### Utilities
+
+• [Adobe Kuler Picker] (https://color.adobe.com/) 
+
+• [Self Control](https://selfcontrolapp.com/) - Time Management
+
+• [EverNote](https://evernote.com/?var=1) - Note taking
+
+• 
+
 #### Programming (general) and other languages
 
 • http://worrydream.com/LearnableProgramming/

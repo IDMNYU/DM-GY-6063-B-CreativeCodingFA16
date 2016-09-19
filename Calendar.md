@@ -43,8 +43,13 @@
 ### Homework Assigned:
 		• Read Learning Processing - Ch. 3, 5-6
 		• Exercise 2
-			* Take your design from Exercise 1 and add randomization (scale, size, position, color, etc)
+			* Take your design from Exercise 1 and add:
+				 randomization (scale, size, position, color, etc)
+				 interactivity
+				 diversity
+				 control mechanism
 			* Intergate variables, control statements, operators
+			* I am always looking for you to explore, expand and experiment with the material in class and in the readings.
 
 <br>
 <br>

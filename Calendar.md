@@ -65,13 +65,18 @@
 		• Interactivity
 
 ### Homework Assigned:
-		• Read [Getting Started in P5.js](https://p5js.org/get-started/)
-		• Read [Procesing Transition Tutorial] (https://github.com/processing/p5.js/wiki/Processing-transition)
+		• Read <a href ="https://p5js.org/get-started/">Getting Started in P5.js </a>
+		• Read <a href = "https://github.com/processing/p5.js/wiki/Processing-transition"> Procesing Transition Tutorial </a>
 		• Learning Processing - Ch. 7
-		• Exercise 3
-		* Take your design from Exercise 1 and add motion 
+		• Exercise 3:
+			Take your design from Exercise 1 and add motion 
+
 			* Intergate variables, control statements, operators, interactivity
+
 			* Integrate custom functions that pass parameters
+
+			* Experiment, play, investigate. Comment your code! Use pseudo code to break each line down
+
 			* Experiment with:
 				a. Making your object come back in reverse when it’s at the edge of your screen
 				b. Making your object come back from the opposite side of the screen (pac man effect)

@@ -65,8 +65,8 @@
 		• Interactivity
 
 ### Homework Assigned:
-		• Read <a href ="https://p5js.org/get-started/">Getting Started in P5.js </a>
-		• Read <a href = "https://github.com/processing/p5.js/wiki/Processing-transition"> Procesing Transition Tutorial </a>
+		• Read https://p5js.org/get-started/ ---> Getting Started in P5.js 
+		• Read https://github.com/processing/p5.js/wiki/Processing-transition ---> Procesing Transition Tutorial 
 		• Learning Processing - Ch. 7
 		• Exercise 3:
 			Take your design from Exercise 1 and add motion 

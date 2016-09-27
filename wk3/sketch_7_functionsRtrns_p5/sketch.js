@@ -1,3 +1,5 @@
+// var says that I am going to have a variable
+// there aren't any datatypes for variables in js
 var grn, slate, ltgrn;
 var step = 0;
 var stepY;
@@ -39,7 +41,7 @@ function draw() {
      //console.log(step);
      if(step > 700){
        step = -150;
-       //vel = 0;
+       vel = 0;
      }
     }
     

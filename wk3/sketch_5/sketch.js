@@ -17,6 +17,8 @@ function draw() {
     stroke(108, 255, 56);
     ellipse(mouseX, mouseY, 50, 50);
   }
+  
+  //console.log(mouseX); // instead of print() or println();
 
 }
 

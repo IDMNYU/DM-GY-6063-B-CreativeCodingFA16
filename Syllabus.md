@@ -47,7 +47,9 @@ This course presumes no prior knowledge of programming. It does assume a high de
 
 Assessment will occur by reviewing weekly coding assignments, challenges, and  projects. The course is cumulative.  Please see the Grading Section for specific grade breakdown, calendar for due dates, and assignments for briefs. 
 
-The assignments are your opportunity to put your skills to the test. They're designed to test and deepen your knowledge while giving me valuable information about how you're progressing in the class. <a href = "https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished is better than perfect. </a> An attempt at them is better than nothing at all. 
+The assignments are your opportunity to put your skills to the test. They're designed to test and deepen your knowledge while giving me valuable information about how you're progressing in the class. <a href = "https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished is better than perfect. </a> An attempt at them is better than nothing at all.
+
+The requirements listed for each assignment, are the bare minimum. I'm always looking for you to go above and beyond that, especially if you wish to have grades that are above an average grade. I expect to see you experimenting and investiaging the different coding principles that we've discussed in class and in the readings. A failed experiment is better than no experiment.
 
 Students will evaluate their own progressed in a course in two ways: 1) A course evaluation form, which will be developed based on the course’s individual objectives. 2) Students will participate in a self reflection assignment due Week 7 & Week 15 or as otherwise noted. 
 
@@ -178,7 +180,11 @@ Do the follow these steps for each assignment:
 
 • Project 2: Choice (critiqued)			30%
 
-For each project your grade will be assessed upon the following: Principles, Creativity/Thoughtfulness, Craft. Below gives you a sense of the spectrum, giving examples for high, middle and low grades.
+For each project your grade will be assessed upon the following: Principles, Creativity/Thoughtfulness, Craft.
+
+The requirements listed for each assignment, are the bare minimum. I'm always looking for you to go above and beyond that, especially if you wish to have grades that are above an average grade. I expect to see you experimenting and investiaging the different coding principles that we've discussed in class and in the readings. A failed experiment is better than no experiment.
+
+Below gives you a sense of the spectrum, giving examples for high, middle and low grades.
 
 Please note: 
 A letter grade of "C" is an average grade. Average is not bad. It means average. Most of us are average, in some way. An average level of work is being done. It does not mean perfection. It means that the work still has room to develop at it's current state. It also means that the work has noticible achievements and evidence of some acquisition of knowledge. I look at this on an individual basis as well as across the whole class. 

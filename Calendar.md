@@ -106,9 +106,7 @@
 ## Week 5  Oct 10
 
 ### Topics Covered:
-		• Objects
-		• OOP in Processing
-		• OOP in P5.js
+		NO CLASS
 
 ### Homework Assigned:
 		• Read Learning Processing - Ch. 8, 22
@@ -122,7 +120,9 @@
 ### **Project 1 Due**
 
 ### Topics Covered:
-		• OOP
+		• Objects
+		• OOP in Processing
+		• OOP in P5.js
 		• Inheritance + Polymorphism
 		
 
@@ -224,8 +224,6 @@
 **Prototype + Basic Functionality for Final Project Due**
 
 ### Topics Covered:
-		• TBD
-		• Using External libraries
 		• Vectors
 		• Motion with Vectors
 		
@@ -240,8 +238,6 @@
 ## Week 13  Dec 5
 
 ### Topics Covered:
-		• TBD
-		• Using External libraries
 		• Particle Systems
 		
 

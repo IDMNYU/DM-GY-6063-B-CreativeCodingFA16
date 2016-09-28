@@ -3,6 +3,8 @@
 * **Katherine Bennett, Visiting Assistant Professor**
 * **Email:Katherine.Bennett@nyu.edu** 
 * [Slack:](https://gradcreativecodingb.slack.com) https://gradcreativecodingb.slack.com
+* **GA:Caitlin Sikora cas836@nyu.edu**
+* **Help available on Fridays 1-4pm in the Fishbowl or right around there (MAGNET 845)**
 
 * **Office Hours: Tues + Thur 4:20-6:30pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 881**

@@ -5,6 +5,9 @@
 * **Office Hours: Tues + Thur 4:20-6:00pm, otherwise by appointment** 
 * **Office Location: NYU Media and Games Network, 2 Metrotech Center Room 884**
 
+* **GA:Caitlin Sikora cas836@nyu.edu**
+* **Help available on Fridays 1-4pm in the Fishbowl or right around there (MAGNET 845)**
+
 
 ### Required Course Materials
 • [Learning Processing, SECOND EDITION by Daniel Shiffman] (http://learningprocessing.com/) ISBN-13: 978-0123944436 LP

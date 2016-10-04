@@ -7,6 +7,7 @@ function setup() {
 }
 
 function draw() {
+  // we reset the translate and begin again from (0, 0);
   background(204);
   translate(20, 25);  // Move to start position
   rotate(angle);

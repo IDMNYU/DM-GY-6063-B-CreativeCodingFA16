@@ -6,9 +6,9 @@ function setup() {
 }
 
 function draw() {
-  translate(mouseX, mouseY); // spin shape in place
+  //translate(mouseX, mouseY); // spin shape in place
   rotate(angle);
-  //translate(mouseX, mouseY); //upper left crnr
+  translate(mouseX, mouseY); //upper left crnr
   rect(-15, -15, 30, 30);
-  angle += 0.1;
+  angle += 0.1; // angle = angle + 0.1;
 }

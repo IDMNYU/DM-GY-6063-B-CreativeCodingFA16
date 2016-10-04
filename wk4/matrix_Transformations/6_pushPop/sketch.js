@@ -5,15 +5,27 @@ function setup() {
 }
 
 function draw() {
+  translate(35, 10);
+  fill(78, 110, 229);
+  rect(0, 0, 30, 30); //blue
+  
   push(); //saves matrix coords
     translate(mouseX, mouseY); // new ones
     fill(87, 232, 206);
     rect(0, 0, 30, 30); //teal
-  pop(); // restore old matrix coords
+    
+    push(); //saves matrix coords
+    translate(mouseX + 100, mouseY - 100); // new ones
+    fill(255,0, 0);
+    rect(0, 0, 30, 30); //teal
+    
+  //pop(); // restore old matrix coords
   
- 
-  translate(35, 10);
-  fill(78, 110, 229);
+  //pop(); // restore old matrix coords
+  
+  
+  translate(-35, -10);
+  fill(0, 255, 0);
   rect(0, 0, 30, 30); //blue
   
   

@@ -1,0 +1,12 @@
+
+class Monster{
+  
+  
+  Monster(){
+    
+    
+  }
+  
+  
+  
+}

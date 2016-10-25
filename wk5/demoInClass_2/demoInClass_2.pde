@@ -9,8 +9,8 @@ void setup(){
   background(255);
   size(800, 800);
   // this is where the class constructor gets called
-  //fred = new Monster(80, 180);  //fred is a new instance of the monster class
-  fred = new Monster();  // giving a value to fred. which instantiating it
+  fred = new Monster(80, 180);  //fred is a new instance of the monster class
+  //fred = new Monster();  // giving a value to fred. which instantiating it
   //debby = new Monster();
 }
 

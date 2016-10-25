@@ -12,19 +12,22 @@ class Monster {
   int wide; 
   int tall;
 
-  /*
+  ///*
   Monster(int ww, int h) {    // class constructor
    // should be intergal things for existence + operation
    wide = ww;
    tall = h;
    }
-   */
+   //*/
+   
+   /*
 
   Monster() {    // class constructor
     // should be intergal things for existence + operation
     //wide = ww;
     //tall = h;
   }
+*/
 
   // display functions aka methods in side of a class
   void display() {

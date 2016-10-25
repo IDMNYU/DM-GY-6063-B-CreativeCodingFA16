@@ -5,7 +5,7 @@
 // Example 22-2: Polymorphism
 
 // One array of Shapes
-Shape[] shapes = new Shape[30];
+Shape[] shapes = new Shape[30];  // parent class
 
 void setup() {
   size(480, 270);

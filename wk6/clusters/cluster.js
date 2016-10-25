@@ -29,20 +29,20 @@ function Cluster(n, c, x, y) {
     // check if near sides
     // if so invert + slow down - use sin to get it to be cyclical
     
-    if(this.xPos+ this.w > width){
+    if(this.xPos > width){
       //this.xPos = 0;
       //this.acceleration = this.acceleration * -1;
       this.a = PI - this.a;
     }
-    if(this.xPos+ this.w < 0){
+    if(this.xPos< 0){
       //this.xPos = 0;
       //this.acceleration *= 1;
       this.a = PI - this.a;
     }
-    if(this.yPos + this.w > height){
+    if(this.yPos > height){
       this.a = TWO_PI - this.a;
     }
-    if(this.yPos + this.w < 0){
+    if(this.yPos  < 0){
       this.a = TWO_PI = this.a;
     }
   }

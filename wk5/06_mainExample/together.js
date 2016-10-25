@@ -20,5 +20,11 @@ function draw(){
 
 }
 
+/*
+function Cazz(){
+  
+  
+}
+*/
 
 

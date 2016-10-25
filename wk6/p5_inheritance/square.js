@@ -19,7 +19,7 @@ function Square(x, y, r) {
     stroke(0);
     rect(this.x, this.y, this.r, this.r);
   }
-};
+}
 
 // Inherit from the parent class
 Square.prototype = Object.create(Shape.prototype);

@@ -17,6 +17,7 @@ class Square extends Shape {
 
   // The square overrides its parent for display.
   void display() {
+    // super?  if not, then overriding what's in the parent method
     rectMode(CENTER);
     fill(175);
     stroke(0);

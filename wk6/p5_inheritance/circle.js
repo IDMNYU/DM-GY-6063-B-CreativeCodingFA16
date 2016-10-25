@@ -31,7 +31,7 @@ function Circle(x, y, r, c) {
     stroke(0);
     ellipse(this.x, this.y, this.r, this.r);
   }
-};
+}
 
 // Inherit from the parent class
 Circle.prototype = Object.create(Shape.prototype);

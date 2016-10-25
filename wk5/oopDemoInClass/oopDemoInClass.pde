@@ -14,7 +14,8 @@ void setup(){
 
 
 void draw(){
-  background(255);
+  //background(255);
+  
   
   fred.move(1, 0);
   fred.update();  // dot synatx is how you execute methods of a class

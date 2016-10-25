@@ -5,11 +5,13 @@ var speed = 0.01;
 
 
 var fsize = 9;
-var insideColor = 0;
-var fontCount = 0;
-var phrase = "my cat has ticks"; // this is a string
-var phrasearray = phrase.split(' '); // parsing the string for spaces
-// each word goes into a new slot
+//var insideColor = 0;
+//var fontCount = 0;
+
+var phrase = 'my cat has ticks'; // hey baby, i'm an aaaarraaaaaaaay
+// make an array out of a string
+var phrasearray = phrase.split(' '); // parsing the array for spaces, making new indices from that
+
 
 function preload() {
 
@@ -41,10 +43,9 @@ function draw() {
   speed = mouseX / width * 0.5;
   testphase = (testphase + speed) % TWO_PI;
   var h = map(sin(testphase), -1.0, 1.0, height, 0);
-  ellipse(width/2, h, 20, 20);
+  ellipse(width / 2, h, 20, 20);
 
   var s;
-
 
   for (var i = 0; i < phrasearray.length; i++) {
     s = map(sin(fphases[i]), -1.0, 1.0, 9, 64);
@@ -54,31 +55,30 @@ function draw() {
     fphases[i] = (fphases[i] + speed) % TWO_PI;
   }
   /*
-    s = map(sin(fphases[0]), -1.0, 1.0, 9, 64);
-    textFont(thefont[0], s);
-    text('my', thex, they);
-    thex += textWidth('my ');
-    fphases[0] = (fphases[0] + speed) % TWO_PI;
-    
-    s = map(sin(fphases[1]), -1.0, 1.0, 9, 64);
-    textFont(thefont[1], s);
-    text('cat',thex, they);
-    thex += textWidth('cat ');
-    fphases[1] = (fphases[1] + speed) % TWO_PI;
-    
-    s = map(sin(fphases[2]), -1.0, 1.0, 9, 64);
-    textFont(thefont[2], s);
-    text('has',thex, they);
-    thex += textWidth('has '); // with regard to the text you just drew
-    fphases[2] = (fphases[2] + speed) % TWO_PI;
-    
-    s = map(sin(fphases[3]), -1.0, 1.0, 9, 64);
-    textFont(thefont[3], s);
-    text('ticks' ,thex, they);
-    thex += textWidth('ticks ');// totally optional
-    fphases[3] = (fphases[3] + speed) % TWO_PI;
-   */
-
+  s = map(sin(fphases[0]), -1.0, 1.0, 9, 64);
+  textFont(thefont[0], s);
+  text('my', thex, they);
+  thex += textWidth('my ');
+  fphases[0] = (fphases[0] + speed) % TWO_PI;
+  
+  s = map(sin(fphases[1]), -1.0, 1.0, 9, 64);
+  textFont(thefont[1], s);
+  text('cat' ,thex, they);
+  thex += textWidth('cat ');
+  fphases[1] = (fphases[1] + speed) % TWO_PI;
+  
+  s = map(sin(fphases[2]), -1.0, 1.0, 9, 64);
+  textFont(thefont[2], s);
+  text('has' ,thex, they);
+  thex += textWidth('has '); // with regard to the text you just drew
+  fphases[2] = (fphases[2] + speed) % TWO_PI;
+  
+  s = map(sin(fphases[3]), -1.0, 1.0, 9, 64);
+  textFont(thefont[3], s);
+  text('ticks' ,thex, they);
+  thex += textWidth('ticks ');// totally optional
+  fphases[3] = (fphases[3] + speed) % TWO_PI;
+ */
   /*
   fill(insideColor, 0, 0);
   text('my cat has ticks', mouseX, mouseY);

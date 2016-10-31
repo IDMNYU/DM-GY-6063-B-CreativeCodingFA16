@@ -1,4 +1,4 @@
-Exercise 7: Text & Image
+Exercise 5: Text & Image
 
 Collage and Manipulation
 

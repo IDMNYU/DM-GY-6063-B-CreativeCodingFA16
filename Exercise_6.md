@@ -22,4 +22,4 @@ The output should be evident in some way, whether this is visually through text,
 
 This counts as 2 exercises.
 
-Due Nov 21
+Due Nov 28

@@ -38,16 +38,16 @@ function setup() {
   console.log(me);
   //var wds = "[Illustration]";
   //var superParsed = story.replace(wds, " ");
-  var superParsed = story.replace(/Illustration/g, " ");
+  var superParsed = story.replace(/Illustration/gi, " ");  // g means globally, i, means literally as it's written
   //console.log(superParsed);
   var diced = superParsed.replace(/[\[\]']+/g, ''); // remove the [ ] as well and replace it with a space
   //console.log(diced);
 
 
   parsedStory = splitTokens(story, delimiters); // turns a string into an array based on delimiters
-  console.log(parsedStory);  // after removing the word Illustration and the [], we still have strings [Illustration]
+  console.log(parsedStory);  // after removing the word Illustration and the [], we still have strings [Illustration] (we could just take the "i" out of the replace method above)
   
-  var tidyArray = removeStuff("[Illustration]", parsedStory);
+  var tidyArray = removeStuff("[Illustration]", parsedStory); //send that string of char that need to be removed to a function, as well as the array to parse
   console.log(tidyArray);
 
   t = searchText("Peter");

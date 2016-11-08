@@ -27,41 +27,55 @@ function setup() {
 
   story = joined.substring(beginNum, endNum + end.length);
   //console.log(story);
-  
-  
+
+
   var rabbit = story.match(/and/gi);
   console.log(rabbit.length);
   var num = story.search(/McGregor/gi);
   console.log(num);
-  
+
   var me = story.replace("Peter", "Katherine");
   console.log(me);
   //var wds = "[Illustration]";
   //var superParsed = story.replace(wds, " ");
-  var superParsed = story.replace(/Illustration/gi, " ");
- console.log(superParsed);
+  var superParsed = story.replace(/Illustration/g, " ");
+  //console.log(superParsed);
+  var diced = superParsed.replace(/[\[\]']+/g, ''); // remove the [ ] as well and replace it with a space
+  //console.log(diced);
 
-  parsedStory = splitTokens(story, delimiters);
- // console.log(parsedStory);
- 
- 
+
+  parsedStory = splitTokens(story, delimiters); // turns a string into an array based on delimiters
+  console.log(parsedStory);  // after removing the word Illustration and the [], we still have strings [Illustration]
+  
+  var tidyArray = removeStuff("[Illustration]", parsedStory);
+  console.log(tidyArray);
+
   t = searchText("Peter");
   //console.log(t);
   if (t > 0) {
     for (var i = 0; i <= t; i++) {
       var b = new Bunny(random(0, width), random(0, height))
       herd.push(b);
-      
+
     }
   }
   //console.log(herd.length);
 }
 
 function draw() {
-  for(var i = 0; i < herd.length; i++){
-    herd[i].display(color(random(255),random(255),random(255) ));
+  for (var i = 0; i < herd.length; i++) {
+    herd[i].display(color(random(255), random(255), random(255)));
   }
   noLoop();
+}
+
+function removeStuff(strng, storyList){
+  for(counter = (storyList.length - 1); counter > 0; counter--) {
+    if(storyList[counter] == strng){
+      storyList.splice(counter, 1);
+    }
+  }
+  return parsedStory;
 }
 
 function searchText(word) {

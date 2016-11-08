@@ -184,7 +184,7 @@
 		• Read Learning Processing - Ch. 19
 		• Read [Programmer Creativity Boost](http://lifedev.net/2008/07/programmer-creativity-boost/)
 		• Finalize preparations for [Roundtable](RoundTable.md) for [Final Project](Final_Project.md)
-		• [Exercise 6](Exercise_6.md)
+		• Begin to work on [Exercise 6](Exercise_6.md)
 
 <br>
 <br>

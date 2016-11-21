@@ -18,10 +18,11 @@ function setup() {
   createCanvas(400, 400);
   background(255);
   //txtArray = split(rawTxt[0], " ");
-  joined = join(rawTxt, " "); // join all of the txt into one String, leave " " inbetween
+  joined = join(rawTxt, " "); // join all of the txt into one String, 
+  // leave " " inbetween
   beginNum = joined.indexOf("Once");
   // console.log(beginNum);
-  var end = "END"
+  var end = "THE END"
   endNum = joined.indexOf(end);
   // console.log(endNum);
 
@@ -29,26 +30,32 @@ function setup() {
   //console.log(story);
 
 
-  var rabbit = story.match(/and/gi);
+  var rabbit = story.match(/and/gi); // takes regular expression and matches it.
+                                //puts each into an array object
+                                // retrieve the matches
+                                // .test to see if in there, boolean return
   console.log(rabbit.length);
-  var num = story.search(/McGregor/gi);
-  console.log(num);
+  var num = story.search(/McGregor/gi); // returns the positin of the first instance
+  console.log(num); // position number
 
   var me = story.replace("Peter", "Katherine");
+  var cleaner = me.replace(/Illustration/g, ''); // take the string and take out this work
   console.log(me);
+  console.log(cleaner);
   //var wds = "[Illustration]";
   //var superParsed = story.replace(wds, " ");
-  var superParsed = story.replace(/Illustration/gi, " ");  // g means globally, i, means literally as it's written
-  //console.log(superParsed);
-  var diced = superParsed.replace(/[\[\]']+/g, ''); // remove the [ ] as well and replace it with a space
-  //console.log(diced);
+  //var superParsed = story.replace(/Illustration/gi, " ");  // g means globally, i, means literally as it's written
+  var superParsed = cleaner.replace(/[\[\]]/gi, " "); // take out the []
+  console.log(superParsed);
+  parsedStory = splitTokens(superParsed, delimiters); // turns a string into an array based on delimiters
+  console.log(parsedStory);
 
+  //parsedStory = splitTokens(story, delimiters); // turns a string into an array based on delimiters
+  //console.log(parsedStory);  // after removing the word Illustration and the [], we still have strings [Illustration] (we could just take the "i" out of the replace method above)
 
-  parsedStory = splitTokens(story, delimiters); // turns a string into an array based on delimiters
-  console.log(parsedStory);  // after removing the word Illustration and the [], we still have strings [Illustration] (we could just take the "i" out of the replace method above)
-  
-  var tidyArray = removeStuff("[Illustration]", parsedStory); //send that string of char that need to be removed to a function, as well as the array to parse
-  console.log(tidyArray);
+  // check this out later
+  //var tidyArray = removeStuff("[Illustration]", parsedStory); //send that string of char that need to be removed to a function, as well as the array to parse
+  //console.log(tidyArray);
 
   t = searchText("Peter");
   //console.log(t);
@@ -69,9 +76,9 @@ function draw() {
   noLoop();
 }
 
-function removeStuff(strng, storyList){
-  for(counter = (storyList.length - 1); counter > 0; counter--) {
-    if(storyList[counter] == strng){
+function removeStuff(strng, storyList) {
+  for (counter = (storyList.length - 1); counter > 0; counter--) {
+    if (storyList[counter] == strng) {
       storyList.splice(counter, 1);
     }
   }

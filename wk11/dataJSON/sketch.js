@@ -1,24 +1,25 @@
 var films = [];
 var filmData; //
+var film;
 
 function preload() {
-  filmData = loadJSON("film.json");
+  filmData = loadJSON("films.json");
   console.log("ok");
 }
 
 function setup() {
   //film = loadJSON('film.json', getInfo());  // this is a callback function
   createCanvas(480, 120);
-  var o = filmData;
-  films[0] = new Film(o);
+  //var o = filmData;
+  //films[0] = new Film(o);
   
   
-  /*
+
   for (var i = 0; i < filmData.length; i++) {
     var o = filmData[i];
     films[i] = new Film(o);
   }
-  */
+  
   noStroke();
 }
 

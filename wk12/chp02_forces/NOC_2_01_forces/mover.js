@@ -9,8 +9,8 @@ var Mover = function() {
   this.acceleration = createVector(0, 0);
 
   this.applyForce = function(force) {
-    var f = p5.Vector.div(force, this.mass);
-    this.acceleration.add(f);
+    //var f = p5.Vector.div(force, this.mass);
+    this.acceleration.add(force);
   };
 
   this.update = function() {

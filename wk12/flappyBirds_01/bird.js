@@ -2,9 +2,9 @@ function Bird(){
   this.y = height/2;
   this.x = 64;
   
-  this.gravity = 1; // force causing the velocity to increase. down
+  this.gravity = .01; // force causing the velocity to increase. down
   //but better with other forces:
-  this.lift = -10; // negative added so goes down
+  this.lift = -15; // negative added so goes down
   this.velocity = 0;
   
   this.show = function(){
@@ -34,9 +34,6 @@ function Bird(){
       this.y = 0;
       this.velocity = 0;
     }
-    
-    
-    
     
     
   }

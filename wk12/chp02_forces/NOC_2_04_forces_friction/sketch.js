@@ -18,7 +18,7 @@ function draw() {
     var wind = createVector(0.01, 0);
     var gravity = createVector(0, 0.1*movers[i].mass);
 
-    var c = 0.01;
+    var c = 0.001;
     var normal = 1;
     var frictionMag = c * normal;
     var friction = movers[i].velocity.copy();

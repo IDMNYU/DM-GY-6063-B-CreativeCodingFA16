@@ -23,8 +23,8 @@ function draw() {
     ambientLight(0);
     */
     // (r, g, b, alpha, x, y, z)
-  directionalLight(255, 0, 0, 0, 0, -30, 0);
-   directionalLight(255, 100, 0, 0, 0, 0, 3);
+  directionalLight(255, 0, 0, 0, 0, 0, 30);
+  directionalLight(255, 100, 0, 0, 0, 0, 3);
   
   sphere(80);
 

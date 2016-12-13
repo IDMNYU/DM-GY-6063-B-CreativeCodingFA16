@@ -12,7 +12,7 @@ function draw() {
   push();
   translate(0,150,0);
   fill(0,255,0); //green
-  //cylinder(5,200,5); //top
+  cylinder(5,200,5); //top
   pop();
   
   normalMaterial();
@@ -21,16 +21,16 @@ function draw() {
   translate(0,100,0);
   push();
   rotate(PI, [0,1,0]); // 2nd is array axis to revolve around - x, y, z
-  //fill(0,255,0);
+  fill(0,255,0);
   normalMaterial();
-  //box();
+  box();
   pop();
   
   translate(0,100,0);
   push();
   rotateY(PI/8);
   normalMaterial();
-  //box();
+  box();
   pop();
   
 }

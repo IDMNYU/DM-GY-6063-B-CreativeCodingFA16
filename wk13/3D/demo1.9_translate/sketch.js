@@ -11,7 +11,7 @@ function draw() {
   box();
   
   //further cube
-  translate(0,0,-200);
+  translate(0,0,-600);
   fill(0,255,0);
   box();
 }

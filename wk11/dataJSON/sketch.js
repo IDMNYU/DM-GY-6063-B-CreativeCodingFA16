@@ -12,6 +12,7 @@ function setup() {
   createCanvas(480, 120);
   //var o = filmData;
   //films[0] = new Film(o);
+  console.log(films.length);
   
   
 

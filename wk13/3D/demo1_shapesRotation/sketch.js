@@ -1,3 +1,5 @@
+var z_ =0;
+
 function setup(){
   createCanvas(windowWidth, windowHeight, WEBGL);
   //cylinder(50, 50);
@@ -6,8 +8,14 @@ function setup(){
 var theta = 0;
 
 function draw(){
+  z_ = z_ - 25;
+  if( z_ > 600){
+    z_ = 0;
+  }
+  console.log(z_);
+  
   background(255, 255, 255, 255);
-  translate(-width/2 + 250, 0, 0);
+  translate(-width/2 + 250, 0, z_);
   normalMaterial();
   push();
   rotateZ(theta * mouseX * 0.001);
@@ -22,6 +30,8 @@ function draw(){
   rotateY(theta * mouseX * 0.001);
   box(50, 50, 50);
   pop();
+  
+  
   translate(250, 0, 0);
   push();
   rotateZ(theta * mouseX * 0.001);
@@ -50,5 +60,6 @@ function draw(){
   rotateY(theta * mouseX * 0.001);
   sphere(50);
   pop();
+ 
   theta += 0.05;
 }

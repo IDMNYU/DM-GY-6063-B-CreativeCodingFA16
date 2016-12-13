@@ -19,7 +19,7 @@ function draw() {
   translate(50, 50, 100);
 
   if (mouseIsPressed) {
-    ambientLight(150, 0, 0);
+    ambientLight(150, 255, 0);
   }
   ambientLight(0);
 

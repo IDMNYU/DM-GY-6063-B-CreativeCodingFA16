@@ -269,7 +269,7 @@
 ### Submit:
 		• Video Documentation of your Final Project
 		• Final Push of Code
-		• Final Self-Assessment
+		• [Final Self-Assessment](FinalDeliverables.md)
 
 
 
